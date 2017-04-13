@@ -26,7 +26,7 @@
 ### Whatsapp
 - [Ionic2CLI-Meteor-WhatsApp](https://github.com/Urigo/Ionic2CLI-Meteor-WhatsApp)
 
-## Youtube
+### Youtube
 - [angular2-youtube](https://github.com/dlizarra/angular2-youtube) - [Live demo](https://dlizarra.github.io/angular2-youtube/)
 
 ## Contributing
