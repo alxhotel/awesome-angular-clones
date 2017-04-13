@@ -4,6 +4,7 @@ Awesome app clones using [Angular](https://github.com/angular/angular)
 ## Contents
 - [Instagram](#instagram)
 - [Slack](#slack)
+- [Tinder](#tinder)
 - [Whatsapp](#whatsapp)
 - [YouTube](#youtube)
 
@@ -15,6 +16,9 @@ Awesome app clones using [Angular](https://github.com/angular/angular)
 
 ### Slack
 - [angular-slack-clone](https://github.com/dprats/angular-slack-clone)
+
+### Tinder
+- [tindAngular](https://github.com/deadlocked247/tindAngular)
 
 ### Whatsapp
 - [Ionic2CLI-Meteor-WhatsApp](https://github.com/Urigo/Ionic2CLI-Meteor-WhatsApp)
