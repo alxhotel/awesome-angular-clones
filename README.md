@@ -29,6 +29,10 @@ Awesome app clones using [Angular](https://github.com/angular/angular)
 ## Contributing
 Found an awesome app clone using Angular? Send a pull request!
 
+Please take a quick look at the [contribution guidelines](https://github.com/alxhotel/awesome-angular-clones/blob/master/CONTRIBUTING.md) first.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Alex](https://github.com/alxhotel) has waived all copyright and related or neighboring rights to this work.
