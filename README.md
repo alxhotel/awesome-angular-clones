@@ -1,5 +1,8 @@
 # Awesome Angular Clones [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-Awesome app clones using [Angular](https://github.com/angular/angular)
+
+[<img src="https://rawgit.com/alxhotel/awesome-angular-clones/master/angular-logo.svg" align="right" width="100">](http://electron.atom.io)
+
+> Awesome app clones using [Angular](https://github.com/angular/angular)
 
 ## Contents
 - [Instagram](#instagram)
